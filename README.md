@@ -4,7 +4,7 @@
 
   <h2 style="text-align: center;">Visit my Portfolio Page to learn more about me and my work and become part of my network! 👋 💪</h2>
 
-<div style="display: flex; justify-content: center; align-items: center; width: 100%; margin:auto; gap: 10px;">
+<div align="center">
 
 <a href="https://jensmatthiaschk.com" target="_newBrowserTab" rel="noopener">
   <img height="40" width="40" align="center" alt="Jens-Home" src="/icons/Home.svg">
@@ -15,7 +15,7 @@
 </a>
 
 <a href="https://www.xing.com/profile/Jens_Matthiaschk" target="_newBrowserTab" rel="noopener">
-  <img height="40" width="40" align="center" alt="Jens-Home" src="/icons/xing.svg">
+  <img height="40" width="40" align="center" alt="Jens-Home" src="/icons/Xing.svg">
 </a>
 
 <a href="https://www.imdb.com/name/nm4456056/" target="_newBrowserTab" rel="noopener">
