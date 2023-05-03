@@ -7,31 +7,33 @@
 <div align="center">
 
 <a href="https://jensmatthiaschk.com" target="_newBrowserTab" rel="noopener">
-  <img height="40" width="40" align="center" alt="Jens-Home" src="/icons/Home.svg">
+  <img height="60" width="60" align="center" alt="Jens-Home" src="/icons/Home.svg">
 </a>
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/jensmatthiaschk" target="_newBrowserTab" rel="noopener">
-  <img height="40" width="40" align="center" alt="Jens-Home" src="/icons/linkedin.svg">
+  <img height="60" width="60" align="center" alt="Jens-Home" src="/icons/linkedin.svg">
 </a>
 &nbsp;&nbsp;
 <a href="https://www.xing.com/profile/Jens_Matthiaschk" target="_newBrowserTab" rel="noopener">
-  <img height="40" width="40" align="center" alt="Jens-Home" src="/icons/Xing.svg">
+  <img height="60" width="60" align="center" alt="Jens-Home" src="/icons/Xing.svg">
 </a>
 &nbsp;&nbsp;
 <a href="https://www.imdb.com/name/nm4456056/" target="_newBrowserTab" rel="noopener">
-  <img height="40" width="40" align="center" alt="Jens-Home" src="/icons/imdb.svg">
+  <img height="60" width="60" align="center" alt="Jens-Home" src="/icons/imdb.svg">
 </a>
 
 </div>
 </br>
 <br>
-
-[![Jens' GitHub stats](https://github-readme-stats.vercel.app/api?username=JensMatthiaschk&count_private=true)](https://github.com/JensMatthiaschk/github-readme-stats)
+<div align="center">
   
-   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JensMatthiaschk&layout=compact&langs_count=16&theme=dracula"/>
-  
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JensMatthiaschk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+[![Jens' GitHub stats](https://github-readme-stats.vercel.app/api?username=JensMatthiaschk&count_private=true&show_icons=true&theme=radical&hide=issues)](https://github.com/JensMatthiaschk/github-readme-stats) 
+&nbsp;&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JensMatthiaschk&layout=compact&theme=radical)](https://github.com/JensMatthiaschk/github-readme-stats)
 
+</div>
+</br>
+</br>
 
 ```yaml
 name: Jens Matthiaschk
