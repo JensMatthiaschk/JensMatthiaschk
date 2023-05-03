@@ -13,11 +13,11 @@
 <a href="https://www.linkedin.com/in/jensmatthiaschk" target="_newBrowserTab" rel="noopener">
   <img height="40" width="40" align="center" alt="Jens-Home" src="/icons/linkedin.svg">
 </a>
-  &nbsp;&nbsp;
+&nbsp;&nbsp;
 <a href="https://www.xing.com/profile/Jens_Matthiaschk" target="_newBrowserTab" rel="noopener">
   <img height="40" width="40" align="center" alt="Jens-Home" src="/icons/Xing.svg">
 </a>
-  &nbsp;&nbsp;
+&nbsp;&nbsp;
 <a href="https://www.imdb.com/name/nm4456056/" target="_newBrowserTab" rel="noopener">
   <img height="40" width="40" align="center" alt="Jens-Home" src="/icons/imdb.svg">
 </a>
@@ -25,6 +25,12 @@
 </div>
 </br>
 <br>
+
+[![Jens' GitHub stats](https://github-readme-stats.vercel.app/api?username=JensMatthiaschk&count_private=true)](https://github.com/JensMatthiaschk/github-readme-stats)
+  
+   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JensMatthiaschk&layout=compact&langs_count=16&theme=dracula"/>
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JensMatthiaschk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
 
 
 ```yaml
@@ -68,7 +74,7 @@ hobbies: ["Cycling", "Fitness", "Hiking", "Movies" ]
 <br>
 
 
-<h2 align="center">👨🏼‍💻Some tools I've learned put into use on my projects so far</h2>
+<h2 align="center">👨🏼‍💻Some tools I've learned and put into use on my projects so far</h2>
 </br>
 <div align="center">
   <img height="40" width="40" align="center" alt="Jens-Home" src="/icons/Visual-studio-code.svg">
@@ -90,8 +96,9 @@ hobbies: ["Cycling", "Fitness", "Hiking", "Movies" ]
 </br>
 </br>
 </br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+
+<div align="center">
+  
+![Snake animation](https://github.com/JensMatthiaschk/JensMatthiaschk/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
