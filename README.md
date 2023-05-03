@@ -1,7 +1,5 @@
-<p align="center">
-    <img
-        src="https://capsule-render.vercel.app/api?text=Hi, Welcome!&animation=fadeIn&type=waving&color=gradient&height=300" />
-</p>
+<img src="https://capsule-render.vercel.app/api?text=Hi, Welcome!&animation=fadeIn&type=waving&color=gradient&height=300" />
+
 
 <p style="display: flex; justify-content: center; align-items: center; width: 100%; margin:auto; gap: 10px;">
 
