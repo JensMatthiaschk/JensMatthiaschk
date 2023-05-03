@@ -1,6 +1,7 @@
 
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?text=Hi,Welcome!&animation=fadeIn&type=waving&color=gradient&height=250" />
-
+</div>
 
   <h2 align="center">Visit my portfolio page to learn more about me and my work and let's connect! 👋 💪</h2>
 </br>
