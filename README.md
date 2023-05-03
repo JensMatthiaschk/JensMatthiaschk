@@ -7,19 +7,19 @@
 </br>
 <div align="center">
 
-<a href="https://jensmatthiaschk.com" target="_newBrowserTab" rel="noopener">
+<a href="https://jensmatthiaschk.com" target="_blank" rel="noopener noreferrer">
   <img height="60" width="60" align="center" alt="Jens-Home" src="/icons/Home.svg">
 </a>
 &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/jensmatthiaschk" target="_newBrowserTab" rel="noopener">
+<a href="https://www.linkedin.com/in/jensmatthiaschk" target="_blank" rel="noopener noreferrer">
   <img height="60" width="60" align="center" alt="Jens-Home" src="/icons/linkedin.svg">
 </a>
 &nbsp;&nbsp;
-<a href="https://www.xing.com/profile/Jens_Matthiaschk" target="_newBrowserTab" rel="noopener">
+<a href="https://www.xing.com/profile/Jens_Matthiaschk" target="_blank" rel="noopener noreferrer">
   <img height="60" width="60" align="center" alt="Jens-Home" src="/icons/Xing.svg">
 </a>
 &nbsp;&nbsp;
-<a href="https://www.imdb.com/name/nm4456056/" target="_newBrowserTab" rel="noopener">
+<a href="https://www.imdb.com/name/nm4456056/" target="_blank" rel="noopener noreferrer">
   <img height="60" width="60" align="center" alt="Jens-Home" src="/icons/imdb.svg">
 </a>
 
