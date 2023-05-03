@@ -2,8 +2,8 @@
 <img src="https://capsule-render.vercel.app/api?text=Hi,Welcome!&animation=fadeIn&type=waving&color=gradient&height=250" />
 
 
-  <h2 style="text-align: center;">Visit my Portfolio Page to learn more about me and my work and become part of my network! 👋 💪</h2>
-
+<h2 align="center">Visit my Portfolio Page to learn more about me and my work and become part of my network! 👋 💪</h2>
+</br>
 <div align="center">
 
 <a href="https://jensmatthiaschk.com" target="_newBrowserTab" rel="noopener">
@@ -70,7 +70,7 @@ hobbies: ["Cycling", "Fitness", "Hiking", "Movies" ]
 
 
 <h2 style="text-align: center; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;">👨🏼‍💻Some tools I've learned put into use on my projects so far</h2>
-
+</br>
 <div align="center">
 <img height="40" width="40" align="center" alt="Jens-Home" src="/icons/Visual-studio-code.svg">
   <img height="40" width="40" align="center" alt="Jens-Home" src="/icons/Html-5.svg">
