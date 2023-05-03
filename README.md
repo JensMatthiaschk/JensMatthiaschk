@@ -1,4 +1,4 @@
-<p style="text-align: center; ">
+<p align="center">
     <img
         src="https://capsule-render.vercel.app/api?text=Hi, Welcome!&animation=fadeIn&type=waving&color=gradient&height=300" />
 </p>
