@@ -28,9 +28,9 @@
 <br>
 <div align="center">
   
-[![Jens' GitHub stats](https://github-readme-stats.vercel.app/api?username=JensMatthiaschk&count_private=true&show_icons=true&theme=radical&hide=issues)](https://github.com/JensMatthiaschk/github-readme-stats) 
+[![Jens' GitHub stats](https://github-readme-stats.vercel.app/api?username=JensMatthiaschk&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&hide=issues)](https://github.com/JensMatthiaschk/github-readme-stats) 
 &nbsp;&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JensMatthiaschk&layout=compact&theme=radical)](https://github.com/JensMatthiaschk/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JensMatthiaschk&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/JensMatthiaschk/github-readme-stats)
 
 </div>
 </br>
